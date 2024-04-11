@@ -17,8 +17,8 @@ import lombok.AllArgsConstructor;
 @Service
 @AllArgsConstructor
 public class MarvelServiceImpl {
-	private final String PUBLIC_KEY = "3aaaa50b386764e7c624fa360ccf55c4";
-	private final String PRIVATE_KEY = "47797c7b040d1f421be77aca0a53624048e6f825";
+	private final String PUBLIC_KEY = //API_KEY;
+	private final String PRIVATE_KEY = //API_KEY;
 	
 	
 	@Autowired
